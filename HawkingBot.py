@@ -9,7 +9,7 @@ import random
 # if you plan on any commercial exploitation of this idea then you must contact Berend RAH at EyeTreasure
 # you are free to present the HawkingBot on your Youtube channel (or a Blog or a Vlog) and the above does not apply to Youtube channel monetisation
 
-# the Lego assembly instructions can be found here: 
+# the Lego assembly instructions can be found here:https: github.com/EyeTreasure/HawkingBot/blob/master/Hawking%20Bot%20Assembly%20Guide.pdf
 
 # the Youtube demo video is here: https://youtu.be/nnCas87dHp8
 
