@@ -11,7 +11,7 @@ import random
 
 # the Lego assembly instructions can be found here: 
 
-# the Youtube demo video is here:
+# the Youtube demo video is here: https://youtu.be/nnCas87dHp8
 
 # the Instructables instructions are here: https://www.instructables.com/id/Hawking-Bot
 
